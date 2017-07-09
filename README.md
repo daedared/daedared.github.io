@@ -1,2 +1,0 @@
-# daedared.github.io
-Website
